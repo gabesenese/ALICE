@@ -1,0 +1,73 @@
+# Under Development Folders
+core
+data
+docs
+robotics
+src/algorithms
+src/utils/basic_interaction.py
+src/utils/intent_generation.py
+templates
+tests
+
+# Under Development Scripts
+app.py
+main.py
+
+# Project Personal Notes
+making_of_neural_network
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+venv/
+env/
+ENV/
+.venv/
+
+# Environment variables
+.env
+.env.*
+
+# IDEs and editors
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Pipenv, Poetry, and similar tool files
+Pipfile.lock
+poetry.lock
+
+# Logs
+*.log
+logs/
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# Build artifacts
+build/
+dist/
+*.egg-info/
+
+# Test coverage reports
+htmlcov/
+.tox/
+.coverage
+coverage.xml
+*.cover
+.hypothesis/
+.pytest_cache/
+
+
+
+
